@@ -318,7 +318,7 @@ voting();
        return finger.fingerID; 
 
   }
-  
+   
  else if (finger.fingerID == 2 && ver1==2 && gen1 == 0){ 
       digitalWrite(6,LOW);
       digitalWrite(5,HIGH);
